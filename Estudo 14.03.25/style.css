@@ -2,3 +2,18 @@
     color:red;
     font-size: 100px;
 }
+
+#foto {
+    display: flex;
+    justify-content:center;
+}
+
+#img1{
+    width: 5000px;
+    height: 1000px;
+}
+
+#img2 {
+    display: flex;
+    justify-content: center;
+}
