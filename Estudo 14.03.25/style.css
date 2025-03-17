@@ -17,3 +17,18 @@
     display: flex;
     justify-content: center;
 }
+
+* {
+    margin: 100px;
+}
+
+.a1 {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 100px;
+}
+
+.bla {
+    font-size: 100px;
+    border-bottom: solid blue ;
+}
