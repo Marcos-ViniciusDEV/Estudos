@@ -1,0 +1,8 @@
+{
+    "workbench.tree.renderIndentGuides": "onHover",
+    "terminal.integrated.commandsToSkipShell": [
+        "\"editor.wordWrap\": \"on\"",
+        "\"workbench.sideBar.location\": \"left\""
+    ],
+    "workbench.settings.useSplitJSON": true
+}

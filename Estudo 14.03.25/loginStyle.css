@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+}
+
+.divpai {
+    display: flex;
+    justify-content: center;
+    height:100vh;
+}
+.divfilho {
+    align-self: center;
+    border: 2px solid black;
+    padding: 10px;
+    box-shadow: 1px 1px 20px gray;
+}
+
+H1 {
+    margin-bottom: 20px;
+}
+
+form {
+   /* margin-top: 100px; */
+   display: flex;
+   /* justify-content: center;
+   align-items: center; */
+   flex-direction: column;
+
+}
+ 
+.label1form {
+    margin-bottom: 20px;
+}
+
+
+#senha, #email {
+    margin-left: 20px;
+}
+
+.sexoc {
+    display: flex;
+    width: 100%;
+    justify-content:space-between;
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+}
+
+
+
+#email:hover{
+    outline: 0;
+    border: 2px solid blue;
+    background-color: aqua;
+}
+
+
+/* #sexo1 {
+    margin-right: 10px;
+} */
+
+#formfild {
+    display: flex;
+    align-items: center;
+}
+
+fieldset {
+    margin: 30px;
+    width: 50px;
+    display: flex;
+}
+
+legend:hover {
+    color: blueviolet;
+}
+
+fieldset:hover {
+    background-color: azure;
+}
+
+.divi1 {
+    display: flex;
+    flex-direction: column;
+}
+
+#ema {
+    margin-top: 10px;
+}
+
+/* #mail {
+    margin-top: 5px;
+} */
+ 
